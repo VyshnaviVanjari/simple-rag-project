@@ -1,0 +1,3 @@
+Our company provides data automation solutions.
+We focus on Python, cloud, and AI.
+Projects are delivered within 6 weeks timeline.

@@ -1,0 +1,2 @@
+Our team consists of backend engineers and data scientists.
+We prioritize scalability and performance in all systems.

@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain-text-splitters
+openai
+faiss-cpu
+tiktoken
+langchain-openai
+unstructured

@@ -1,0 +1,3 @@
+We also build machine learning models for prediction tasks.
+Our cloud stack includes AWS and Docker.
+We follow agile methodology for project delivery.
